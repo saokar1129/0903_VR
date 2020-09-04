@@ -6207,3 +6207,5 @@ Please see Output Log for details.
 [2020.09.03-09.13.57:537][577]LogFileHelpers: Saving map 'MotionControllerMap' took 0.171
 [2020.09.03-09.13.57:548][577]AssetCheck: New page: Asset Save: MotionControllerMap
 [2020.09.03-09.13.57:548][577]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.09.03-09.34.09:246][439]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2020.09.03-09.34.09:246][439]LogTemp: Resetting audio stream to device id 
